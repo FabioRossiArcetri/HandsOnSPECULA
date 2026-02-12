@@ -31,7 +31,7 @@ Drag and drop the unzipped HandsOnSPECULA folder from your computer directly int
 Wait for the upload to complete.
 
 1.4. Verify the Setup
-Once uploaded, ensure the folder is named exactly specula_data and is located in the top level of your My Drive (not hidden inside another folder).
+Once uploaded, ensure the folder is named exactly HandsOnSPECULA and is located in the top level of your My Drive (not hidden inside another folder).
 
 This ensures the code in the notebooks can find the files at /content/drive/MyDrive/HandsOnSPECULA.
 
