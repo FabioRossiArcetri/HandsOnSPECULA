@@ -16,8 +16,11 @@ Rename for Consistency: Ensure the folder is named HandsOnSPECULA in your Drive 
    
 You can launch any notebook in this repository directly into Google Colab without downloading anything.
 
-Navigate to the notebook file (.ipynb) in this GitHub repo.
+First notebooks is:
 
-Replace github.com in the URL with colab.research.google.com/github/.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OFPabiooiRossiArcetri/HandsOnSPECULA/blob/main/SPECULA_Tutorial1.ipynb)
 
-Alternatively: Use the "Open in Colab" badge if provided at the top of the notebook.
+Second notebooks is:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OFPabiooiRossiArcetri/HandsOnSPECULA/blob/main/SPECULA_TutorialANDES.ipynb)
+
