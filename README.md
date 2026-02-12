@@ -18,7 +18,7 @@ You can launch any notebook in this repository directly into Google Colab withou
 
 First notebooks is:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabioiRossiArcetri/HandsOnSPECULA/blob/main/SPECULA_Tutorial1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabioRossiArcetri/HandsOnSPECULA/blob/main/SPECULA_Tutorial1.ipynb)
 
 Second notebooks is:
 
