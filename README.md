@@ -4,13 +4,36 @@ Welcome to the course! To ensure everyone has the same environment and access to
 
 1. Prepare Your Data
    
-The notebooks require specific datasets to run. Since these files are large, we host them on a shared Google Drive folder.
+How to Get Your Own Copy of the Data
+To run the experiments, you need write access to the data folder. Since the master folder is read-only, you must create your own copy in your Google Drive.
 
-Access the Data: Click https://drive.google.com/drive/folders/1THmfKtnpJ7ZU5X3aETwcND2y4bs2PoZV?usp=drive_link to open the shared folder.
+Follow these steps precisely:
 
-Copy to Your Drive: You cannot run the code directly from the shared folder. Right-click the folder and select "Organize" > "Add shortcut" then copy the folder to your own "My Drive" space.
+1.1. Download the Data
+Open the link https://drive.google.com/drive/folders/1THmfKtnpJ7ZU5X3aETwcND2y4bs2PoZV?usp=drive_link.
 
-Rename for Consistency: Ensure the folder is named HandsOnSPECULA in your Drive so the notebook paths work automatically.
+At the top of the page, click the folder name, HandsOnSPECULA, and select Download.
+
+Note: Google will "zip" the files first. This might take a minute or two depending on the size. Once it’s done, a .zip file will download to your computer.
+
+1.2. Prepare the Files Locally
+Locate the downloaded .zip file on your computer.
+
+Unzip/Extract the folder. You should now have a regular folder named HandsOnSPECULA.
+
+1.3. Upload to Your Own Drive
+Go to your Google Drive.
+
+Make sure you are in "My Drive".
+
+Drag and drop the unzipped HandsOnSPECULA folder from your computer directly into the Google Drive browser window.
+
+Wait for the upload to complete.
+
+1.4. Verify the Setup
+Once uploaded, ensure the folder is named exactly specula_data and is located in the top level of your My Drive (not hidden inside another folder).
+
+This ensures the code in the notebooks can find the files at /content/drive/MyDrive/HandsOnSPECULA.
 
 2. Open the Notebooks in Colab
    
