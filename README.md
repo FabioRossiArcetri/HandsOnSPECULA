@@ -8,7 +8,7 @@ The notebooks require specific datasets to run. Since these files are large, we 
 
 Access the Data: Click https://drive.google.com/drive/folders/1THmfKtnpJ7ZU5X3aETwcND2y4bs2PoZV?usp=drive_link to open the shared folder.
 
-Copy to Your Drive: You cannot run the code directly from the shared folder. Right-click the folder and select "Organize" > copy the folder to your own "My Drive" space.
+Copy to Your Drive: You cannot run the code directly from the shared folder. Right-click the folder and select "Organize" > "Add shortcut" then copy the folder to your own "My Drive" space.
 
 Rename for Consistency: Ensure the folder is named HandsOnSPECULA in your Drive so the notebook paths work automatically.
 
